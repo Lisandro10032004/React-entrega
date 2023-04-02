@@ -1,0 +1,53 @@
+.img-product{
+    height: 200px;
+    max-width: 150px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top:100px;
+  
+ 
+}
+
+.card{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.NavBar{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    margin-bottom: 40px;
+}
+
+.menu{
+    color: black;
+}
+.titulo{
+    font-size: 40px;
+}
+.celumundo-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.celumundo-img{
+    height: 500px;
+    width: auto;
+  
+}
+
+.cat{
+    color: white;
+}
+
